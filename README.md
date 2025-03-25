@@ -22,8 +22,7 @@ This is the backend for a Netflix clone application. It provides APIs for user a
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/netflix-clone-backend.git
-   cd netflix-clone-backend
+   git clone https://github.com/prashantpoudel745/Moviedetailsapi
    ```
 2. Install dependencies:
    ```sh
@@ -36,11 +35,7 @@ This is the backend for a Netflix clone application. It provides APIs for user a
    JWT_SECRET=your_secret_key
    STRIPE_SECRET_KEY=your_stripe_secret_key
    ```
-4. Run database migrations:
-   ```sh
-   npx prisma migrate dev --name init
-   ```
-5. Start the backend server:
+4. Start the backend server:
    ```sh
    npm start
    ```
