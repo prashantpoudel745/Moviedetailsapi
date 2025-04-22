@@ -1,6 +1,6 @@
 # IMDB Backend
 
-This is the backend for a Netflix clone application. It provides APIs for user authentication, movie/series management, and subscriptions. The frontend is yet to be developed.
+This is the backend for a imdb application. It provides APIs for user authentication, movie/series management, and subscriptions. The frontend is yet to be developed.
 
 ## Features
 
